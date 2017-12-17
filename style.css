@@ -1,0 +1,23 @@
+
+/*          SAY_MY_NAME STYLE.CSS              */
+
+body {
+	font-family: Helvetica, sans;
+	font-size : 8px;
+	color : black
+}
+
+h1 {
+	font-family: serif;
+	font-size: 120px;
+	color:                         rgba( 51,  4, 88, 0.9);
+	
+	     		/*    HOR   VER  BLUR  COLOR & TRANSPARANCY                  */
+  text-shadow: -70px -50px 6px   rgba(251,  7,107, 0.3),     /* red    */
+				        50px -70px 8px   rgba(  0,255, 51, 0.5),     /* green  */
+      				 -30px  40px 5px   rgba(  0,108,255, 0.3),     /* blue   */
+			      	  40px  70px 9px   rgba(250,233, 34, 0.5);     /* yellow */
+}
+
+
+/*          SAY_MY_NAME STYLE.CSS              */
